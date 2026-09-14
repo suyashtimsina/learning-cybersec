@@ -5,6 +5,7 @@ import time
 websites = [
     "https://www.google.com",
     "https://www.github.com",
+    "https://www.youtube.com",
     "https://httpstat.us/404"  # A test page designed to fail (404 Not Found)
 ]
 
